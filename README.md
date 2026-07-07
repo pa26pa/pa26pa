@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Estatísticas do GitHub](https://vercel.app)
 
- <p align="left">  
-   <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180em" />  
-   <img src="https://vercel.app" alt="Linguagens mais utilizadas" height="180em" />  
- </p>
+<p align="left">
+  <img src="https://anuraghazra.dev" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://anuraghazra.dev" alt="Linguagens mais utilizadas" height="180em" />
+</p>
