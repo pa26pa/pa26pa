@@ -2,7 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4F46E5&height=180&section=header&text=Bem-vindo(a)!&fontSize=40&fontColor=ffffff"/>
 
-# 👋 Olá, eu sou a Paula!
+# Olá, eu sou a Paula! :smile:
 
 </div>
 
@@ -17,7 +17,7 @@ Atualmente estou estudando desenvolvimento web, banco de dados e APIs, sempre bu
 ---
 
 
-# 📚 Atualmente
+# Atualmente
 
 -  Aprendendo novas tecnologias.
 -  Desenvolvendo projetos pessoais.
@@ -26,7 +26,7 @@ Atualmente estou estudando desenvolvimento web, banco de dados e APIs, sempre bu
 
 ---
 
-# 📫 Contato
+# Contato 
 
 <p align="center">
 
