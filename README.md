@@ -1,14 +1,11 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4F46E5&height=180&section=header&text=Bem-vindo(a)!&fontSize=40&fontColor=ffffff"/>
 
 # 👋 Olá, eu sou a Paula!
 
-### 💻 Desenvolvedora em formação
-### 📚 Estudante de Desenvolvimento de Sistemas
-### 🚀 Sempre aprendendo algo novo
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4F46E5&height=180&section=header&text=Bem-vindo(a)!&fontSize=40&fontColor=ffffff"/>
-
 </div>
+
 
 ---
 
@@ -22,10 +19,10 @@ Atualmente estou estudando desenvolvimento web, banco de dados e APIs, sempre bu
 
 # 📚 Atualmente
 
-- 🌱 Aprendendo novas tecnologias.
-- 💻 Desenvolvendo projetos pessoais.
-- 📖 Estudando Python e Desenvolvimento Web.
-- 🚀 Buscando evoluir como desenvolvedora.
+-  Aprendendo novas tecnologias.
+-  Desenvolvendo projetos pessoais.
+-  Estudando Python e Desenvolvimento Web.
+-  Buscando evoluir como desenvolvedora.
 
 ---
 
