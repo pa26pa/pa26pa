@@ -1,19 +1,12 @@
-# 📊 Estatísticas
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pa26pa&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa26pa&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pa26pa&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 🔥 Streak
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pa26pa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pa26pa&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pa26pa&theme=tokyonight"/>
+</p>
