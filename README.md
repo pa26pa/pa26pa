@@ -30,7 +30,7 @@ Atualmente estou estudando desenvolvimento web, banco de dados e APIs, sempre bu
 
 <p align="center">
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:paula.pires2640@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
