@@ -28,12 +28,6 @@ Atualmente estou focada em desenvolver projetos que me desafiem e me permitam ev
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
 ---
 
 ### Frameworks
@@ -62,9 +56,9 @@ Atualmente estou focada em desenvolver projetos que me desafiem e me permitam ev
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pa26pa&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa26pa&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -74,7 +68,7 @@ Atualmente estou focada em desenvolver projetos que me desafiem e me permitam ev
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=pa26pa&theme=tokyonight"/>
 
 </div>
 
